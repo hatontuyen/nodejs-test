@@ -1,1 +1,1 @@
-echo "Test done"
+echo "Test successful"
